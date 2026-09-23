@@ -8,6 +8,6 @@ public class LargestNumberOfArray {
                 largest = arr[i];
             }
         }
-        System.out.println("Largest Number Of An Array ="+largest);
+        System.out.println("Largest Number Of An Array :"+largest);
     }
 }
